@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-Hello this is a test
+Hello! I'm Iliana.
+I'm a 1st year student in the UCLA MLIS program. 📖
 
 <!--
 **ilianaocarlos-ctrl/ilianaocarlos-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
